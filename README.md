@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Real-world projects
 - 🤔 I’m looking for help with Kaggle Masters
+  <!--
 - 💬 Ask me about ...
+  -->
 - 📫 How to reach me: Through LinkedIn
   <!--
 - 😄 Pronouns: ...
